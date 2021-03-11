@@ -1,1 +1,2 @@
 select * from super_teste
+select * from teste
