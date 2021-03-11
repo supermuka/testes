@@ -1,2 +1,3 @@
 select * from super_teste
 select * from teste
+select * from abc
